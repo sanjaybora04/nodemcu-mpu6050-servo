@@ -34,6 +34,7 @@ This project demonstrates how to control a servo motor using the MPU6050 gyrosco
 ---
 
 ## Circuit Diagram
+![Circuit Diagram](./circuit_diagram.png)
 
 ### **Connections**
 
